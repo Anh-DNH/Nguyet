@@ -20,6 +20,8 @@
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"json_utils","path":"scripts/json_utils/json_utils.yy",},},
+    {"id":{"name":"TWE_system","path":"scripts/TWE_system/TWE_system.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
