@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"json_utils",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"json_utils",
+  "parent":{
+    "name":"nguyet",
+    "path":"nguyet.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
