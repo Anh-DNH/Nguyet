@@ -19,6 +19,7 @@
   "name":"nguyet",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"TWE_system","path":"scripts/TWE_system/TWE_system.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

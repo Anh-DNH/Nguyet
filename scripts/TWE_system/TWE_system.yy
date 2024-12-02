@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TWE_system",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TWE_system",
+  "parent":{
+    "name":"nguyet",
+    "path":"nguyet.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
