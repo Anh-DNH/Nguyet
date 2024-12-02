@@ -58,7 +58,6 @@ Temporary Items
 *.resource_order
 *.old
 
-
 # GGDrive temp
 .tmp.drivedownload/
 .tmp.driveupload/
