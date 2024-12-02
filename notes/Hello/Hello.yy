@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Hello",
+  "name":"Hello",
+  "parent":{
+    "name":"nguyet",
+    "path":"nguyet.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -9,7 +9,9 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"> SYSTEMs","folderPath":"folders/> SYSTEMs.yy","name":"> SYSTEMs","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -18,7 +20,9 @@
   },
   "name":"nguyet",
   "resources":[
+    {"id":{"name":"Hello","path":"notes/Hello/Hello.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"common","path":"scripts/common/common.yy",},},
     {"id":{"name":"json_utils","path":"scripts/json_utils/json_utils.yy",},},
     {"id":{"name":"TWE_system","path":"scripts/TWE_system/TWE_system.yy",},},
   ],
